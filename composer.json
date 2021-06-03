@@ -1,0 +1,37 @@
+{
+  "name": "pkgstore/xenforo-ext-metatag",
+  "type": "xenforo-extension",
+  "description": "",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/pkgstore",
+  "keywords": [
+    "xenforo",
+    "meta",
+    "tags"
+  ],
+  "authors": [
+    {
+      "name": "Kitsune Solar",
+      "email": "kitsune.solar@gmail.com",
+      "homepage": "https://kitsune.solar",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/pkgstore/xenforo-ext-metatag/issues",
+    "source": "https://github.com/pkgstore/xenforo-ext-metatag"
+  },
+  "require": {
+    "composer/installers": "^1.9"
+  },
+  "autoload": {
+    "psr-4": {}
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false
+  },
+  "extra": {
+    "installer-name": "ext_4b8213a1"
+  }
+}
