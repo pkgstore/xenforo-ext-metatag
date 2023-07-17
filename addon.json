@@ -1,0 +1,21 @@
+{
+  "legacy_addon_id": "",
+  "title": "MetaTag",
+  "description": "(ext_4b8213a1)",
+  "version_id": 1000070,
+  "version_string": "1.0.0",
+  "dev": "iHub TO",
+  "dev_url": "https://ihub.to/",
+  "support_url": "https://github.com/pkgstore/xenforo-ext-metatag/issues",
+  "require": {
+    "XF": [
+      2010070,
+      "XenForo 2.1.0+"
+    ],
+    "php": [
+      "7.3.0",
+      "PHP 7.3.0+"
+    ]
+  },
+  "icon": "fa-search-plus"
+}

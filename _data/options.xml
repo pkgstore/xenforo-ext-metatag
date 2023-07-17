@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option option_id="ext_4b8213a1_documentState" edit_format="radio" data_type="string">
+    <default_value>dynamic</default_value>
+    <edit_format_params>static=Static
+dynamic=Dynamic</edit_format_params>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_robots" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_author" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_organization" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_copyright" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_title" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_appleItunesApp" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_imageSrc" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_appleTouchIcon57" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_appleTouchIcon60" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_appleTouchIcon72" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_appleTouchIcon76" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_appleTouchIcon114" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_appleTouchIcon120" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_appleTouchIcon144" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_appleTouchIcon152" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_appleTouchIcon167" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_appleTouchIcon180" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_msAppTileColor" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_msAppTileImage" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+  <option option_id="ext_4b8213a1_themeColor" edit_format="textbox" data_type="string">
+    <default_value><![CDATA[]]></default_value>
+    <relation group_id="ext_4b8213a1" display_order="1"/>
+  </option>
+</options>
